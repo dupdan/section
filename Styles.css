@@ -15,14 +15,13 @@ html  {background-color: rgb(174, 239, 239); }
 
 .page-header { background-color: blanchedalmond;
 margin:auto;
-max-width: 1000px;
 margin-bottom: 10px;}
 
 h1,p,ul{ margin:auto;max-width: 500px;
 padding: 10px;}
 
 .main {background-color: pink;
-margin: auto; max-width: 960px; padding: 20px; margin-bottom: 10px ;}
+margin: auto; padding: 20px; margin-bottom: 10px ;}
 
 
 .sec-1,.sec-2,.sec-3 { background-color: rgba(144, 72, 88, 0.512);
@@ -32,9 +31,9 @@ margin: auto; max-width:500px; padding: 20px;margin-bottom: 10px;}
 margin: auto; max-width: 500px; padding: 20px; margin-bottom: 10px;} 
 
 footer { background-color: rgba(86, 154, 213, 0.805);
-margin: auto; max-width: 1000px; margin-bottom: 10px;}
+margin: auto; ; margin-bottom: 10px;}
 
-.foot-div { border-top: solid black ;}
+.foot-div { border-top: 8px solid rgba(0, 0, 0, 0.434) ;max-width: 500px; margin:auto}
 
 
 .add-ul { list-style: none; padding-right: 10px;}
